@@ -1080,11 +1080,11 @@ _("Best Targets: Base structures and cyborgs")
 // data/mp/messages/resmessages2.json: $.RES_W_PBMB2.text[2]
 _("Best Targets: Base Structures and Defenses")  
 // TRANSLATORS: 
-// data/mp/messages/resmessages2.json: $.RES_W_BMB1.text[2]
-_("Best Targets: Base Structures")  
-// TRANSLATORS: 
 // data/mp/messages/resmessages12.json: $.RES_W_RK_MRL1.text[2]
 _("Best Targets: Base structures")  
+// TRANSLATORS: 
+// data/mp/messages/resmessages2.json: $.RES_W_BMB1.text[2]
+_("Best Targets: Base Structures")  
 // TRANSLATORS: 
 // data/base/messages/resmessages2.json: $.RES_W_IHOW.text[2]
 // data/mp/messages/resmessages2.json: $.RES_W_IHOW.text[2]
@@ -1443,6 +1443,7 @@ _("Collapsing Plutonium kinetic energy bullets")
 _("Collective Command Center")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.CollectiveCWall.name
+// data/mp/stats/structure.json: $.CollectiveCWall.name
 _("Collective CWall")  
 // TRANSLATORS: 
 // data/base/messages/resmessagesall.json: $.RES_V_B09.text[0]
@@ -1458,6 +1459,7 @@ _("Collective Light Body")
 _("Collective Medium Body")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.CollectiveWall.name
+// data/mp/stats/structure.json: $.CollectiveWall.name
 _("Collective Wall")  
 // TRANSLATORS: 
 // data/mp/stats/templates.json: $.Cyb-ComEng.name
@@ -2621,7 +2623,7 @@ _("Heavy Machinegun Cobra Tracks")
 _("Heavy Machinegun Cobra Wheels")  
 // TRANSLATORS: 
 // data/base/stats/research.json: $.R-Defense-Tower03.name
-// data/base/stats/structure.json: $.GuardTower3.name
+// data/base/stats/structure.json: $.GuardTower1.name
 // data/mp/stats/research.json: $.R-Defense-Tower01.name
 // data/mp/stats/structure.json: $.GuardTower1.name
 _("Heavy Machinegun Guard Tower")  
@@ -3111,12 +3113,12 @@ _("Improves vehicle speed")
 // data/mp/stats/structure.json: $.Emplacement-Howitzer-Incenediary.name
 _("Incendiary Howitzer Emplacement 2")  
 // TRANSLATORS: 
-// data/mp/messages/resmessagesall.json: $.RES_EMP_INH.text[1]
-_("Incendiary howitzer emplacement")  
-// TRANSLATORS: 
 // data/mp/stats/research.json: $.R-Defense-Howitzer-Incendiary.name
 // data/mp/stats/structure.json: $.Emplacement-Howitzer-Incendiary.name
 _("Incendiary Howitzer Emplacement")  
+// TRANSLATORS: 
+// data/mp/messages/resmessagesall.json: $.RES_EMP_INH.text[1]
+_("Incendiary howitzer emplacement")  
 // TRANSLATORS: 
 // data/mp/messages/resmessagesall.json: $.RES_W_INH.text[1]
 _("Incendiary Howitzer may be assigned to a sensor")  
@@ -3638,7 +3640,7 @@ _("Machinegun Bunker")
 _("Machinegun damage +25%")  
 // TRANSLATORS: 
 // data/base/stats/research.json: $.R-Defense-Tower01.name
-// data/base/stats/structure.json: $.GuardTower1.name
+// data/base/stats/structure.json: $.GuardTower1MG.name
 _("Machinegun Guard Tower")  
 // TRANSLATORS: 
 // data/mp/messages/resmessages12.json: $.RES_W_MG_ROF1.text[2]
@@ -3890,6 +3892,7 @@ _("Missile Fortress")
 _("Missile reload time -15%")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.NX-CruiseSite.name
+// data/mp/stats/structure.json: $.NX-CruiseSite.name
 _("Missile Silo")  
 // TRANSLATORS: 
 // data/base/stats/research.json: $.R-Comp-MissileCodes01.name
@@ -4231,15 +4234,15 @@ _("New Systems Structure Available")
 // ... + 6 refs
 _("New Systems Tower Available")  
 // TRANSLATORS: 
+// data/base/messages/resmessagesall.json: $.RES_SENSO1.text[0]
+// data/mp/messages/resmessagesall.json: $.RES_SENSO1.text[0]
+_("New Systems Turret Available For Design")  
+// TRANSLATORS: 
 // data/base/messages/resmessages1.json: $.RES_C_CT1.text[0]
 // data/base/messages/resmessages12.json: $.RES_SY_CBSTU1.text[0]
 // data/mp/messages/resmessages1.json: $.RES_C_CT1.text[0]
 // data/mp/messages/resmessages12.json: $.RES_SY_CBSTU1.text[0]
 _("New Systems Turret Available for Design")  
-// TRANSLATORS: 
-// data/base/messages/resmessagesall.json: $.RES_SENSO1.text[0]
-// data/mp/messages/resmessagesall.json: $.RES_SENSO1.text[0]
-_("New Systems Turret Available For Design")  
 // TRANSLATORS: 
 // data/base/messages/resmessages2.json: $.RES_SY_VCBSTU1.text[0]
 // data/base/messages/resmessages23.json: $.RES_SY_VSTU1.text[0]
@@ -4266,6 +4269,7 @@ _("New VTOL Missile Launcher")
 _("New Weapon Turret Available")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.NEXUSCWall.name
+// data/mp/stats/structure.json: $.NEXUSCWall.name
 _("NEXUS CWall")  
 // TRANSLATORS: 
 // data/base/messages/resmessages3.json: $.RES_V_B10.text[0]
@@ -4299,6 +4303,7 @@ _("Nexus Link Turret")
 _("NEXUS Medium Body")  
 // TRANSLATORS: 
 // data/base/stats/structure.json: $.NX-ANTI-SATSite.name
+// data/mp/stats/structure.json: $.NX-ANTI-SATSite.name
 _("Nexus Missile Silo")  
 // TRANSLATORS: 
 // data/base/stats/research.json: $.R-Sys-Resistance-Upgrade02.name
@@ -4307,13 +4312,14 @@ _("NEXUS Resistance Circuits Mk2")
 // data/base/stats/research.json: $.R-Sys-Resistance-Upgrade03.name
 _("NEXUS Resistance Circuits Mk3")  
 // TRANSLATORS: 
-// data/base/stats/research.json: $.R-Sys-Resistance-Upgrade01.name
-_("NEXUS Resistance Circuits")  
-// TRANSLATORS: 
 // data/mp/stats/research.json: $.R-Sys-Resistance-Circuits.name
 _("Nexus Resistance Circuits")  
 // TRANSLATORS: 
+// data/base/stats/research.json: $.R-Sys-Resistance-Upgrade01.name
+_("NEXUS Resistance Circuits")  
+// TRANSLATORS: 
 // data/base/stats/structure.json: $.NEXUSWall.name
+// data/mp/stats/structure.json: $.NEXUSWall.name
 _("NEXUS Wall")  
 // TRANSLATORS: 
 // data/mp/multiplay/skirmish/nexus.json: $.AI.name
@@ -5285,6 +5291,9 @@ _("Steals technology from enemies")
 // data/mp/messages/resmessagesall.json: $.RES_SY_SPT.text[3]
 _("Steals technology from structures and takes control of weapons")  
 // TRANSLATORS: 
+// data/base/stats/structure.json: $.GuardTower3.name
+_("Steel Heavy Machinegun Guard Tower")  
+// TRANSLATORS: 
 // data/base/messages/resmessages1.json: $.RES_TOWER4.text[1]
 _("Steel tower with flamer")  
 // TRANSLATORS: 
@@ -5464,13 +5473,13 @@ _("Synaptic Link Data Analysis Mk2")
 // data/mp/stats/research.json: $.R-Struc-Research-Upgrade03.name
 _("Synaptic Link Data Analysis Mk3")  
 // TRANSLATORS: 
-// data/base/messages/resmessages1.json: $.RES_ST_RU1.text[1]
-// data/mp/messages/resmessages1.json: $.RES_ST_RU1.text[1]
-_("Synaptic link data analysis")  
-// TRANSLATORS: 
 // data/base/stats/research.json: $.R-Struc-Research-Upgrade01.name
 // data/mp/stats/research.json: $.R-Struc-Research-Upgrade01.name
 _("Synaptic Link Data Analysis")  
+// TRANSLATORS: 
+// data/base/messages/resmessages1.json: $.RES_ST_RU1.text[1]
+// data/mp/messages/resmessages1.json: $.RES_ST_RU1.text[1]
+_("Synaptic link data analysis")  
 // TRANSLATORS: 
 // data/base/messages/resmessages3.json: $.RES_SY_ST1.text[1]
 // data/mp/messages/resmessages3.json: $.RES_SY_ST1.text[1]
@@ -5565,14 +5574,14 @@ _("The VTOL returns to the selected pad for rearming")
 // xgettext:no-c-format
 _("Thermal Armor +35%")  
 // TRANSLATORS: 
-// data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
-// xgettext:no-c-format
-_("Thermal armor +40%")  
-// TRANSLATORS: 
 // data/mp/messages/resmessages3.json: $.RES_V_AH4.text[2]
 // data/mp/messages/resmessagesall.json: $.RES_V_AH7.text[2]
 // xgettext:no-c-format
 _("Thermal Armor +40%")  
+// TRANSLATORS: 
+// data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
+// xgettext:no-c-format
+_("Thermal armor +40%")  
 // TRANSLATORS: 
 // data/mp/messages/resmessages2.json: $.RES_CY_AH1.text[2]
 // xgettext:no-c-format
